@@ -316,7 +316,7 @@ body.dark .home .text{
 
 .container {
   position: relative;
-  width: 80%;
+  width: 100%;
   padding: 30px;
   display: flex;
   justify-content: center;
@@ -326,7 +326,7 @@ body.dark .home .text{
 
 .container .card {
   position: relative;
-  width: 250px;
+  width: 300px;
   height: 480px;
   background: #fff;
   margin: 40px;
