@@ -62,7 +62,7 @@ body.dark{
     z-index: 100;  
 }
 .sidebar.close{
-    width: 100px;
+    width: 80px;
 }
 
 /* ===== Reusable code - Here ===== */
@@ -76,7 +76,7 @@ body.dark{
 
 .sidebar header .image,
 .sidebar .icon{
-    min-width: 40px;
+    min-width: 60px;
     border-radius: 6px;
 }
 
@@ -357,11 +357,15 @@ body.dark .home .text{
   background: #33CC33;
 }
 
+.container .card .circle h1 {
+    font-size: 1.1;
+}
+
 .container .card .circle h2 {
 
   color: #fff;
   font-size: 4.5em;
-  padding: 30px 0;
+  padding: 20px 0;
 }
 
 .container .card .content {
