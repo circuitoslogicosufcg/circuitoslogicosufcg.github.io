@@ -330,6 +330,7 @@ body.dark .home .text{
   position: relative;
   width: 250px;
   height: 400px;
+  min-width: 300px;
   background: #fff;
   margin: 40px;
   border-radius: 40px;
