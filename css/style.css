@@ -358,6 +358,7 @@ body.dark .home .text{
 }
 
 .container .card .circle h1 {
+    color: #fff;
     font-size: 1.1;
 }
 
