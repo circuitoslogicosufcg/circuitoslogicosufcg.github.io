@@ -7,6 +7,8 @@
     font-family: 'Poppins', sans-serif;
 }
 
+
+
 :root{
     /* ===== Colors ===== */
     --body-color: #E4E9F7;
@@ -22,6 +24,8 @@
     --tran-04: all 0.3s ease;
     --tran-05: all 0.3s ease;
 }
+
+@media(min-width: 450px) {
 
 body{
     min-height: 100vh;
@@ -431,4 +435,6 @@ body.dark .container .card {
 
 body.dark .container .card p {
   color: #fff;
+}
+    
 }
