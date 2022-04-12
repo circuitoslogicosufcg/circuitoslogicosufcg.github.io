@@ -508,6 +508,7 @@ body.dark .container .card p {
 
 body.dark .boxmn ul li {
     background: #2e2f2f;
+    color: #fff;
 }
 
 .boxmn ul li:hover {
