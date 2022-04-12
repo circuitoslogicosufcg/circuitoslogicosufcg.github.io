@@ -519,6 +519,9 @@ body.dark .boxmn ul li {
     opacity: 1.0;
 }
 
+body.dark .boxmn ul li:hover {
+    background: #4169E1;
+}
 
 .boxmn ul li span {
     width: 20px;
