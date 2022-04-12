@@ -506,6 +506,10 @@ body.dark .container .card p {
     transition: transform 0.5s;
 }
 
+body.dark .boxmn ul li {
+    background:#2e2f2f;
+}
+
 .boxmn ul li:hover {
     transform: scale(1.1);
     z-index: 100;
