@@ -502,7 +502,7 @@ body.dark .container .card p {
     list-style: none;
     padding: 10px;
     width: 100%;
-    background: #ff0000;
+    background: #ffF;
     transition: transform 0.5s;
 }
 
