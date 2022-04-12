@@ -502,12 +502,12 @@ body.dark .container .card p {
     list-style: none;
     padding: 10px;
     width: 100%;
-    background: #fff;
+    background: #ff0000;
     transition: transform 0.5s;
 }
 
 body.dark .boxmn ul li {
-    background:#2e2f2f;
+    background: #2e2f2f;
 }
 
 .boxmn ul li:hover {
